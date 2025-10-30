@@ -9,5 +9,5 @@ int main() {
         br++;
         i += 6;
     }
-    cout << "Ukupno je " << br << " brojeva." << endl;
+    cout << "There are " << br << " numbers." << endl;
 }
