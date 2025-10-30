@@ -14,6 +14,11 @@ This repository serves as my learning archive — from basic syntax and loops to
 ## 📂 Structure
 Each folder focuses on a specific language or topic:
 
+## 📂 Structure
+
+Each folder focuses on a specific language or topic:
+
+```text
 learning/
 │
 ├── C++/
@@ -30,6 +35,7 @@ learning/
 │   └── small-scripts/
 │
 └── README.md
+```
 
 ---
 
