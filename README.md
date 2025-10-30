@@ -40,9 +40,9 @@ learning/
 ---
 
 ## 🛠️ Tools & Technologies
-- **C++** – CLion, Xcode, or Visual Studio Code  
-- **C#** – Visual Studio or JetBrains Rider  
-- **Python** – VS Code or PyCharm  
+- **C++** – JetBrains CLion  
+- **C#** – JetBrains Rider 
+- **Python** – JetBrains PyCharm  
 - **Git & GitHub** – version control and portfolio tracking
 
 ---
